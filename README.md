@@ -17,7 +17,7 @@
 
 ## Kurulum & Kullanım
 
-1. Bu projeyi zip olarak indirim apk çalıştırın.
+1. Bu projeyi zip olarak indirin ve apkyı çalıştırın.
 ---
 
 ## Telegram Kanalı
